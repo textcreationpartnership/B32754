@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Post nubila Phoebus. Nihil absque Deo.</title>
+            <author>Read, William, Sir, d. 1715</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B32754</idno><idno type="EEBO-CITATION">99888715</idno>
+  <idno type="VID">203944</idno>
+  <idno type="EEBO-PROQUEST">2240903657</idno>
+  
+            <idno type="STC">Interim Tract Supplement Guide 778.k.15.[13]</idno>
+            <idno type="STC">ESTC R231672</idno>
+            <idno type="PROQUEST">ocm99888715</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888715e"/>
+            <note>(EEBO-TCP ; phase 2, no. B32754)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 203945)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E7:2[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Post nubila Phoebus. Nihil absque Deo.</title>
+                  <author>Read, William, Sir, d. 1715</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>between 1694 and 1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At foot: "He is to be spoken with at Mr. Agutters a musical-instrument-maker, at the sign of the Crown, over-against York-Buildings in the Strand, from 8 in the morning till 6 in the evening, where you will see a bill of operations hang at the door.".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Read, William, --  Sir, d. 1715 --  Early works to 1800.</term>
+               <term type="topical_term">Occultism --  Early works to 1900.</term>
+               <term type="topical_term">Ophthalmology --  England --  Early works to 1800.</term>
+               <term type="topical_term">Ophthalmologists --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice">
+            <pb facs="tcp:203944:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>blazon or coat of arms, and representations of couching (cataract removal) and various surgical instruments and aparatus</figDesc>
+                  <q>DVM SPIRO SPIRO</q>
+               </figure>
+            </head>
+            <head>Post Nubila Phoebus. Nibil absque Deo.</head>
+            <p>THESE are to give Notice, That <hi>William Read,</hi> Oculist, and Chirurgical Operator, being invited by some Persons of considerable Quality, (who hath been well satisfied of several Eminent Cures he hath lately performed in the Uni<g ref="char:EOLhyphen"/>versity of <hi>Oxford,</hi> and this last Summer at <hi>Windsor</hi>) hath encouraged them to send for him, to perform some considerable Cures here in Town, as <hi>Couching of Cataracts,</hi> and Curing of <hi>Cancers,</hi> which he fre<g ref="char:EOLhyphen"/>quently performs without Cutting, and likewise all <hi>Sorophulous Hu<g ref="char:EOLhyphen"/>mours,</hi> or <hi>King's Evil,</hi> &amp;c. as many Hundreds in <hi>England, Scotland,</hi> and <hi>Ireland,</hi> can sufficiently demonstrate: He hath been thrice in the University and City of <hi>Oxford,</hi> where he hath restored Thirty Blind People to their Sight by Couching, who continue to see very well, which is an Operation many pretend to, but few perform. He hath a Testimonial from the <hi>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ncellor,</hi> for several considerable Cures he hath performed in the aforesaid University of <hi>Oxford,</hi> as upon your further perusal of this Bill you will find, which is a Confirmation that he is none of those many Circumforaneous Pretenders that infest this Kingdom: He gives his Advice freely, and cures all those that are really Poor, of Blindness, Cancers, Wens, Hare-lips, or Wry-Necks, <hi>Gratis,</hi> and all others according to their Ability, if they come or send to his Lodgings while he stays in this Town, which will be for some part of this Winter. He hath excellent and approved Remedies to preserve and strengthen the Sight in Young or Old, and to restore Hearing, if Curable. He likewise infallibly cures all Pains in the Head, that very often occasion the <hi>Gutta Serena,</hi> or <hi>Black Cataract,</hi> which are never cured, but means may be used in time that may prevent those Obstructions in the Optick Nerves that occasion them. You may have faithful <hi>Advice</hi> of him whether your <hi>Distempers</hi> are <hi>curable</hi> or not.</p>
+            <p>
+               <hi>Out of the many Cures he hath lately Performed, he will only mention these Few, Couch'd by him at</hi> Oxford <hi>in</hi> 1689. <hi>And at his Second Coming in</hi> 1693. viz.</p>
+            <p>Mrs. <hi>Souch.</hi> Mrs. <hi>Hall.</hi> Mrs. <hi>Bishop.</hi> Mrs. <hi>Sherlock.</hi> Mrs. <hi>Sawyer.</hi> Mrs. <hi>Simms.</hi> Mrs. <hi>Kerby.</hi> Mrs. <hi>Day.</hi> Mrs. <hi>Faulkner.</hi> Mrs. <hi>Bostel. Thomas Altock. Thomas Cliff. Margaret Gole.</hi> And many poor People <hi>Gratis:</hi> All Restored to their Sight.</p>
+            <p>Captain <hi>Cook</hi> of <hi>Cirencester</hi> restor'd by him to his perfect Sight, although almost Fourscore Years of Age; and many more in the same Countrey.</p>
+            <p>
+               <hi>Hannah Ayres,</hi> and <hi>Alice Ayres,</hi> both of the Parish of <hi>Denton,</hi> near <hi>Alisbury,</hi> in <hi>Buckinghamshire,</hi> were Restored to their Sight by him, although Blind from their Cradles. Madam <hi>Strickland</hi> of the same Town, who was Blind, was likewise Restor'd to her Sight by Couch<g ref="char:EOLhyphen"/>ing; Perform'd in the Year 1693/4.</p>
+            <p>
+               <hi>Windsor, April</hi> 1694. He Couch'd Mr. <hi>Reeves,</hi> a Gentleman of considerable Quality, and Restor'd him to his perfect Sight, although Fourscore Years of Age: And several Others at the same Time and Place.</p>
+            <p>He also Perform'd a very considerable Cure, by Cutting out a Cancer, which weigh'd Ten Pounds, from the Breast of Mrs. <hi>Cary,</hi> Wife to Mr. <hi>Ralph Cary,</hi> who was Servant to King <hi>Charles</hi> the Second, and now Liveth at the <hi>Blew-Posts</hi> in <hi>Windsor:</hi> This was Perform'd, and the Breast preserv'd in its proper Shape, by the Application of his much Approved <hi>Styptick-Water,</hi> which no Man in Christendome truly Prepares but himself, although Counterfeited by several Ignorant Pre<g ref="char:EOLhyphen"/>tenders that know nothing of the Preparation of it.</p>
+            <p>
+               <hi>Windsor, May</hi> 10. 1694. In the Presence of several Persons of Quality, He Cut and Cured Mrs. <hi>Mary Glover,</hi> the Minister's Daugh<g ref="char:EOLhyphen"/>ter of <hi>Burnham,</hi> of a Wry-Neck, contracted down to her Shoulder. And a Monstrous Double Hair-Lip, for <hi>Thomas Goddard</hi> of the same Parish.</p>
+            <p>
+               <hi>May</hi> 16th 1694. He Couch'd the Daughter of Mr. <hi>John Hanson,</hi> Register of <hi>Eaton-Colledge,</hi> near <hi>Windsor,</hi> who was Born Blind, and brought her to see very well in a few Minutes.</p>
+            <p>
+               <hi>July</hi> 14th, 1694. He cut off a Mortified Legg from Mrs. <hi>Ann Crook,</hi> at <hi>Windsor,</hi> which was perform'd in half a Minute without the loss of an Ounce of Blood after the <hi>Styptick-Water</hi> was applied; In the Presence of his GRACE, the Duke of <hi>Northumberland.</hi>
+            </p>
+            <p>A <hi>Cataract</hi> Couched by him for the Daughter of Mr. <hi>Johnson</hi> at <hi>Grundon</hi> in <hi>Northampton-shire,</hi> who was Born Blind, and Restored to her perfect Sight; and 20 more in the same Countrey, in 1687.</p>
+            <p>
+               <hi>John Davenore,</hi> near <hi>Rippon</hi> in <hi>York-shire,</hi> although Born Blind, was Couched by him, and r<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stored to his perfect Sight: And near 100 more in the <hi>North</hi> of <hi>England,</hi> in the Year 1687, and 1688.</p>
+            <p>Mrs. <hi>Joice Wildah</hi> of <hi>Bath,</hi> was cured by him in 1693; of a <hi>Tympany</hi> and <hi>Dropsey,</hi> when her Belly was as Big as a Woman's with Two Chil<g ref="char:EOLhyphen"/>dren, and he made a perfect Cure of it in 6 Weeks, without Tapping.</p>
+            <p>A <hi>Throat Rupture</hi> of a great bigness was Cured by him for a Per<g ref="char:EOLhyphen"/>son of considerable Quality in this City.</p>
+            <p>
+               <hi>John Moo<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of <hi>Ogborne,</hi> near <hi>Marlberough</hi> in <hi>Wiltshire,</hi> had a large Wen Cut off by him from his Belly, which weigh'd 24 Pound, and he perfectly Cured him.</p>
+            <p>Mrs. <hi>Whiting</hi> near <hi>Market-Laventon,</hi> he Cur'd in the Year 1693. of a dangerous <hi>Cancerated Breast,</hi> without Cutting. She was Re<g ref="char:EOLhyphen"/>commended to him by the Right Honourable, the Earl of <hi>Abingdon,</hi> when left off by All Others.</p>
+            <p>He Cut off a very large <hi>Cancerated Breast</hi> from the Body of <hi>Eli<g ref="char:EOLhyphen"/>zabeth Hopkins</hi> of <hi>Oxford,</hi> in 1689. and perfectly Cured her: For that, and many other considerable Cures, he hath a Testimonial from the <hi>Vice-Chancellor.</hi>
+            </p>
+            <p>A <hi>French</hi> Gentleman belonging to Collonel <hi>Cornwal,</hi> had his Skull Trepann'd which was very dangerously Fractur'd by a Fall from a Horse, and was Cur'd by him at <hi>Bath,</hi> in <hi>May</hi> 1693.</p>
+            <p>He Cur'd the Wife of <hi>John Web</hi> of <hi>Wooten-Basset</hi> in <hi>Wilt-shire,</hi> of a <hi>Dead Palsie,</hi> and <hi>Convulsion in the Nerves,</hi> after being 11 Years <hi>Bed-Ridden,</hi> and Restor'd her to the perfect Use of her Limbs.</p>
+            <p>A <hi>Wry-Neck</hi> contracted down to the Shoulder, Cut and Cured by him in 3 Days, for the Daughter of Mrs. <hi>Cooper</hi> at <hi>Frome</hi> in <hi>Somerset-shire.</hi>
+            </p>
+            <p>A large Deformity of a Double <hi>Hair-Lip,</hi> Cut and Cured by him in 5 Days, for the Son of Mr. <hi>John Tower,</hi> a Merchant at <hi>Watchet</hi> in <hi>Somerset-shire.</hi>
+            </p>
+            <p>A Gentlewoman near <hi>Guilford</hi> in <hi>Surrey,</hi> was Cur'd by him of a very dangerous <hi>Leprosie.</hi> And a Child of Mr. <hi>John Bartles,</hi> the <hi>Ox<g ref="char:EOLhyphen"/>ford</hi>-Car<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ier, of the same Distemper, and both remain in perfect health.</p>
+            <p>A <hi>Polipus</hi> in both Nostrils, which is an excrescence of Flesh that proceeds from the Brain, was Extracted from Mr. <hi>Smith</hi> at <hi>Barn<g ref="char:EOLhyphen"/>stable</hi> in <hi>Devon shire,</hi> in the Year 1692. And Cured by him in Three Days.</p>
+            <p>He is to be spoken with at Mr. <hi>Agutters</hi> a <hi>Musical Instrument-Maker,</hi> at the Sign of the <hi>Crown,</hi> over-against <hi>YORK-Buildings</hi> in the <hi>Strand,</hi> from 8 in the Morning till 6 in the Evening, where you will see a Bill of <hi>Operations</hi> hang at the Door.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
